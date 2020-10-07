@@ -5,13 +5,15 @@ Home: https://rubygems.org/gems/multi_json
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rb-multi_json-feedstock/blob/master/LICENSE.txt)
 
 Summary: A common interface to multiple JSON libraries, including Oj, Yajl, the JSON gem (with C-extensions),
 the pure-Ruby JSON gem, NSJSONSerialization, gson.rb, JrJackson, and OkJson.
 
 
+Development: https://github.com/intridea/multi_json
 
+Documentation: https://www.rubydoc.info/gems/multi_json
 
 Current build status
 ====================
