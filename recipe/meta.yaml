@@ -1,6 +1,6 @@
 {% set name = "multi_json" %}
-{% set version = "1.21.0" %}
-{% set hash = "dd69761814cef4796b39780c1671bece27daad8ba8073f307162dcf5f1792428" %}
+{% set version = "1.21.1" %}
+{% set hash = "e6126a31808e3b4d19f483c775ceac34df190dffa62adfb63a165ee14ba68080" %}
 {% set build = 0 %}
 
 package:
